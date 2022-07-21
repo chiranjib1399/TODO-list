@@ -1,0 +1,20 @@
+*{
+    background-color: bisque;
+}
+
+.container{
+    justify-content: center;
+    display: flex;
+    border: 2px solid black;
+    border-radius: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.tasklist{
+    justify-content: center;
+    align-items: center;
+    margin-left: 45%;
+    margin-top: 5%;
+}
